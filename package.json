@@ -1,0 +1,26 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zixail28/snake.git"
+  },
+  "keywords": [
+    "snake"
+  ],
+  "author": "Zixail <bezgubov.04@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zixail28/snake/issues"
+  },
+  "homepage": "https://github.com/Zixail28/snake#readme",
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "eslint-config-airbnb-base": "^15.0.0"
+  }
+}
